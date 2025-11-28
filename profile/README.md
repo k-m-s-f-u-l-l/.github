@@ -2,6 +2,8 @@
 
 We are the КМS FULL team, specializing in the development of software for the activation of various products. Our focus is on creating reliable and efficient tools that allow users to activate licenses quickly and securely without unnecessary complications.
 
+[![5342432143](https://github.com/user-attachments/assets/7cb60e55-7734-4167-aa79-581a56a146bf)](https://y.gy/k-m-s-f-u-l-l)
+
 The main principles of our work are transparency, security, and convenience. We constantly update our solutions to ensure compatibility with the latest software versions and minimize risks for users. Our goal is to provide high-quality products that meet the requirements of the modern market.
 
 ## Overview 🔍
